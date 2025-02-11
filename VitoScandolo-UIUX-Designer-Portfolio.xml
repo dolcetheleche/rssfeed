@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Vito Scandolo - UI/UX Designer - Portfolio</title>
+    <link>https://global-focus-482301.framer.app/portfolio</link>
+    <description>A curated collection of my finest work. Explore the journey and thought process behind each design solution I create.
+</description>
+    <language>en-us</language>
+    
+    <item>
+      <title>Kinup - Wellness app</title>
+      <link>https://global-focus-482301.framer.app/portfolio/kinup-welness-app</link>
+      <description>A showcase of AI integration and advance prototyping for a wellness application.</description>
+      <pubDate>Sun, 11 Feb 2025 12:00:00 GMT</pubDate>
+      <guid>https://global-focus-482301.framer.app/portfolio/0001</guid>
+    </item>
+
+  </channel>
+</rss>
